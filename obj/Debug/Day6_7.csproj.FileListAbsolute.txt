@@ -1,0 +1,5 @@
+C:\LASTSemesterCshap\basicPractice\Day6_7_Solu\Day6_7\bin\Debug\Day6_7.exe.config
+C:\LASTSemesterCshap\basicPractice\Day6_7_Solu\Day6_7\bin\Debug\Day6_7.exe
+C:\LASTSemesterCshap\basicPractice\Day6_7_Solu\Day6_7\bin\Debug\Day6_7.pdb
+C:\LASTSemesterCshap\basicPractice\Day6_7_Solu\Day6_7\obj\Debug\Day6_7.exe
+C:\LASTSemesterCshap\basicPractice\Day6_7_Solu\Day6_7\obj\Debug\Day6_7.pdb
